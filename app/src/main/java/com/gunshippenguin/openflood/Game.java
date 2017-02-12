@@ -10,6 +10,7 @@ import java.util.Random;
  * Class representing a game in progress.
  */
 public class Game {
+    //dummy commit from ugur
     private int board[][];
     private int boardSize;
 
