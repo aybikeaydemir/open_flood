@@ -11,7 +11,6 @@ import java.util.Random;
  */
 public class Game {
     //dummy commit from ugur
-    // dummy commit from meric
     private int board[][];
     private int boardSize;
 
