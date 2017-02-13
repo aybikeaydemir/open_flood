@@ -13,6 +13,7 @@ public class Game {
     //dummy commit from ugur
     // dummy commit from meric
     // dummy commit from beyza
+    // dummy commit from Aybike 
     private int board[][];
     private int boardSize;
 
